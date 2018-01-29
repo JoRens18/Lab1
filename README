@@ -1,0 +1,2 @@
+I have the RGB LED and hardware working. I have a python that reads the RGB values. I am still working on getting the pygame display to change colors. 
+
